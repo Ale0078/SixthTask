@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-using SixthTask.Logic.Components.Interfaces;
+﻿using SixthTask.Logic.Components.Interfaces;
 
 namespace SixthTask.Logic.Components
 {
