@@ -2,7 +2,7 @@
 
 using SixthTask.Logic.Components.Interfaces;
 using SixthTask.Logic.Components.Builders.Interfaces;
-
+ 
 namespace SixthTask.Logic.Components.Builders
 {
     public class LuckyTicketBuilder : ILuckyTicketBuilder
