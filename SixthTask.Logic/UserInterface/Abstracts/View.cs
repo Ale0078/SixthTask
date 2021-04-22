@@ -4,8 +4,8 @@ namespace SixthTask.Logic.UserInterface.Abstracts
 {
     public abstract class View
     {
-        public virtual ITicket Tikect { get; set; }
-        public virtual ILuckyTicket LuckyTicket { get; set; }
+        public virtual ITicket TikectToGetTikcets { get; set; }
+        public virtual ILuckyTicket LuckyTicketToCheckLucky { get; set; }
 
         public abstract void Display(int countOfLuckyTicket);
     }

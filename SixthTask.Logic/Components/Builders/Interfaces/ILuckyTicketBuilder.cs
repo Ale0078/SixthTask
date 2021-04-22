@@ -2,7 +2,7 @@
 
 namespace SixthTask.Logic.Components.Builders.Interfaces
 {
-    internal interface ILuckyTicketBuilder
+    public interface ILuckyTicketBuilder
     {
         ILuckyTicket Create();
     }
