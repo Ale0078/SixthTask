@@ -1,4 +1,7 @@
-﻿public interface ILuckyTicket 
+﻿namespace SixthTask.Logic.Components.Interfaces 
 {
-    bool IsLuckyTicket(params int[] ticket);
+    public interface ILuckyTicket
+    {
+        bool IsLuckyTicket(params int[] ticket);
+    }
 }
