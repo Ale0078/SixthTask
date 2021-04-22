@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SixthTask": {
+      "commandName": "Project",
+      "commandLineArgs": "0 102 6"
+    }
+  }
+}

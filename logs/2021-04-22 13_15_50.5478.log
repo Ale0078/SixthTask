@@ -1,0 +1,3 @@
+2021-04-22 | INFO | SixthTask.Controllers.LuckyTicketController | Lucky ticket was counted
+2021-04-22 | INFO | SixthTask.Controllers.LuckyTicketController | Info was outputted into console
+2021-04-22 | INFO | SixthTask.Startup | Progrem is finalized

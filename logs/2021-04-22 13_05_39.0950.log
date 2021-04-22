@@ -1,0 +1,4 @@
+2021-04-22 | ERROR | SixthTask.Startup | You must enter three values: [min_ticket_value] [max_ticket_value] [ticket_size]
+And all of these have ot be uint
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at SixthTask.Startup.Start(String[] mainArguments) in D:\ElementaryTasksToSoftServe\SixthTask\SixthTask\Startup.cs:line 52: Index was outside the bounds of the array.

@@ -1,0 +1,5 @@
+2021-04-22 | INFO | LibToTasks.Validation.Validator | Value 0 passed checking
+2021-04-22 | INFO | LibToTasks.Validation.Transformator | Value 1002 can be converted to System.Int32
+2021-04-22 | INFO | LibToTasks.Validation.Validator | Value 1002 passed checking
+2021-04-22 | INFO | LibToTasks.Validation.Transformator | Value 6 can be converted to System.Int32
+2021-04-22 | INFO | SixthTask.Controllers.LuckyTicketController | Model to view was setted

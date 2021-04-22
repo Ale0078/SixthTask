@@ -1,0 +1,7 @@
+2021-04-22 | ERROR | SixthTask.Startup | You must enter three values: [min_ticket_value] [max_ticket_value] [ticket_size]
+And all of these have ot be uint
+System.FormatException: You must enter three values: [min_ticket_value] [max_ticket_value] [ticket_size]
+And all of these have ot be uint
+   at SixthTask.Startup.GetMaxOrMinValue(String valueToCheckAndConvert) in D:\ElementaryTasksToSoftServe\SixthTask\SixthTask\Startup.cs:line 92
+   at SixthTask.Startup.Start(String[] mainArguments) in D:\ElementaryTasksToSoftServe\SixthTask\SixthTask\Startup.cs:line 55: You must enter three values: [min_ticket_value] [max_ticket_value] [ticket_size]
+And all of these have ot be uint

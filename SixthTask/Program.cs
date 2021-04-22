@@ -1,12 +1,7 @@
-﻿using System;
+﻿using SixthTask;
 
-namespace SixthTask
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+Startup projectStart = new();
+
+projectStart.Start(args);
+
+System.Console.ReadKey();

@@ -1,0 +1,4 @@
+2021-04-22 | INFO | LibToTasks.Validation.Validator | Value 0 passed checking
+2021-04-22 | INFO | LibToTasks.Validation.Transformator | Value 102 can be converted to System.Int32
+2021-04-22 | INFO | LibToTasks.Validation.Validator | Value 102 passed checking
+2021-04-22 | INFO | LibToTasks.Validation.Transformator | Value 6 can be converted to System.Int32
